@@ -21,6 +21,12 @@
   align-items: center;
 }
 
+.flex_container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
 .footer a {
   display: flex;
   justify-content: center;
